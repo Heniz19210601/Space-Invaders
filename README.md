@@ -1,0 +1,3 @@
+# Space-Invaders
+Space Invaders is a classic arcade game played on a rectangular screen with different types of aliens on it. The player controls a spaceship at the bottom of the screen and can shoot projectiles at the aliens. The aliens move horizontally and descend towards the player's spaceship. If the aliens reach the bottom of the screen, shoot the player, or collide with the player's spaceship, the game is lost. The player can move their spaceship horizontally to avoid the aliens' projectiles and shoot them down. The game is won when all the aliens are destroyed. The score is calculated based on the umber of aliens destroyed. The duration of the game is clocked until all the aliens are destroyed.
+Run with Gradle
